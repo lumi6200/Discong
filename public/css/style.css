@@ -1,0 +1,40 @@
+.color-template {
+    background-color: #7077A1;
+    color: rgb(240, 240, 240);
+}
+
+textarea {
+    height: 100px;
+    resize: none;
+}
+
+.auth {
+    color: #424769;
+}
+
+.auth-bg {
+    background-color: #424769;
+}
+
+#style-3::-webkit-scrollbar {
+    width: 10px;
+    background: #000;
+}
+
+#style-3::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0px 0px 6px rgba(0, 0, 0, .3);
+    background: #f4f4f4;
+}
+
+#style-3::-webkit-scrollbar-thumb {
+    background: #7077A1;
+    background-image: -webkit-linear-gradient(20deg, rgba(255, 255, 255, .5) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .5) 50%, rgba(255, 255, 255, .5) 75%, transparent 75%)
+}
+
+body {
+    background-color: #424769;
+}
+
+header {
+    background-color: #2D3250;
+}
